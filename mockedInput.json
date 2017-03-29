@@ -1,0 +1,46 @@
+[
+  {
+    "id": "aaa123",
+    "title": "Mocked Data 1",
+    "volume": 54,
+    "number": 11,
+    "year": 2017,
+    "authors": [
+      {
+        "firstname": "Allyson",
+        "lastname": "Ellison",
+        "institution": "Robert",
+        "email": "Allyson@Robert.com"
+      }
+    ],
+    "abstract": "some data",
+    "link": "http://testing.us/aaa123.pdf",
+    "keywords": [
+      "sunt",
+      "fugiat"
+    ],
+    "body": "Empty data"
+  },
+  {
+    "id": "bbb456",
+    "title": "Mocked Data 2",
+    "volume": 56,
+    "number": 12,
+    "year": 2017,
+    "authors": [
+      {
+        "firstname": "Allyson",
+        "lastname": "Ellison",
+        "institution": "Robert",
+        "email": "Allyson@Ronbert.com"
+      }
+    ],
+    "abstract": "another data",
+    "link": "http://testing.us/bbb456.pdf",
+    "keywords": [
+      "kunta",
+      "kinte"
+    ],
+    "body": "empty data"
+  }
+]

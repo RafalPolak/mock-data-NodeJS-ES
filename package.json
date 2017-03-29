@@ -1,0 +1,11 @@
+{
+  "name": "mockDataNodeJSToElasticSearch",
+  "version": "0.0.1",
+  "description": "Simple server to import data into elastic search",
+  "main": "loadMockedData.js",
+  "author": "Rafał Polak",
+  "dependencies": {},
+  "devDependencies": {
+    "elasticsearch": "^12.1.3"
+  }
+}
