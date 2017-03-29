@@ -3,5 +3,5 @@ Simple project to add some data from JSON into Elastic Search using NodeJS
 
 
 ## Technologies
-![Image of NodeJS](/readmeAssets/pic/nodeJS2.png =250x250)
-![Image of Elastic](/readmeAssets/pic/elasticsearch.png =512x136)
+<img src="/readmeAssets/pic/nodeJS2.png" width="250" height="250"/>
+<img src="/readmeAssets/pic/elasticsearch.png" width="512" height="136"/>
