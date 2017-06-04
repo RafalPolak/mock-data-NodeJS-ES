@@ -17,5 +17,5 @@ Simple project to add some data from JSON into Elastic Search using NodeJS
 3. Edit mockedInput.json file with your data (optionally)
 4. Running elasticsearch on 127.0.0.1 and port 9200
 5. Execute "node loadMockedData.js"
-6. See data in Kibana or call Elasticsearch for return data
+6. See data in Kibana or call Elasticsearch API
 
