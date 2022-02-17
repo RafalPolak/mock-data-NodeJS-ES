@@ -6,6 +6,6 @@
   "author": "Rafał Polak",
   "dependencies": {},
   "devDependencies": {
-    "elasticsearch": "^12.1.3"
+    "elasticsearch": "^16.7.3"
   }
 }
